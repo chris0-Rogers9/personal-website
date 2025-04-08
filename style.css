@@ -7,14 +7,14 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    background-color: white;
-    color: white ;
+    background-color: grey;
+    color: grey ;
     padding: 0 1rem;
 }
 
 header {
-    background-color: grey;
-    color: grey;
+    background-color: black;
+    color: black;
     padding: 1rem 0;
 }
 
